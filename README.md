@@ -18,6 +18,7 @@ There are a total of five feature extractions currently coded; they are listed b
     Fast detector 
     Laplacian of Gaussian (a blob detector) 
 
-# TODO
+# DONE
 Implement a classifier to classify the images from the above feature vectors.
+
 After we have implemented the classifier, we can derive metrics as to which of the feature vectors from the above results in the best fit for the data, in terms of accuracy and performance. 
