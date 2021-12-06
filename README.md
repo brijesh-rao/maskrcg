@@ -10,12 +10,10 @@ https://github.com/cabani/MaskedFace-Net
 
 ## Detailed Design of Features  
 
-There are a total of five feature extractions currently coded; they are listed below: 
+There are a total of three feature extractions currently coded; they are listed below: 
 
     Canny edge detection 
     Sobel edge detection 
-    Harris corner detection 
-    Fast detector 
     Laplacian of Gaussian (a blob detector) 
 
 # DONE
